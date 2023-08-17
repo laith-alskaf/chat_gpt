@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

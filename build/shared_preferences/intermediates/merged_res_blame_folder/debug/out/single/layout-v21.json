@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

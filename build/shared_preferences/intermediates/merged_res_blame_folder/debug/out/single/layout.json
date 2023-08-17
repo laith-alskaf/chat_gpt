@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\E-store\\AndroidStudioProjects\\chatgptlaith\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\E-store\\.gradle\\caches\\transforms-3\\f0aa41aaf75d040fa853379bb0c39986\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]
